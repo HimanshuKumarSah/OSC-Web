@@ -7,7 +7,7 @@
                 "title":"Cyber Syndicate",
                 "sub_title":"Capture The Flag",
                 "venue":"AB1-G03,04",
-                "date":"21 Jan",
+                "date":"21-01-2023",
                 "data":"Cyberpunk",
                 "attandance":"5 Teams"
 
@@ -22,7 +22,7 @@
                 "title":"Getting Started with Networking",
                 "sub_title":"Workshop",
                 "venue":"Online",
-                "date":"9 June",
+                "date":"9-06-2022",
                 "data":"Cyberpunk",
                 "attandance":"40"
 
@@ -36,7 +36,7 @@
                 "title":"Docker Fundamentals",
                 "sub_title":"Workshop",
                 "venue":"Online",
-                "date":"11 June",
+                "date":"11-06-2022",
                 "data":"Cyberpunk",
                 "attandance":"40"
 
@@ -49,7 +49,7 @@
                 "title":"Executive Board 2022 Induction",
                 "sub_title":"Induction",
                 "venue":"Discord",
-                "date":"27 August",
+                "date":"27-08-2022",
                 "data":"Cyberpunk",
                 "attandance":"30"
 
@@ -63,7 +63,7 @@
                 "title":"GITTY UP: Learn Git & GitHub",
                 "sub_title":"Workshop",
                 "venue":"Auditorium",
-                "date":"27 Sept",
+                "date":"27-09-2022",
                 "data":"Cyberpunk",
                 "attandance":"400"
 
@@ -77,7 +77,7 @@
                 "title":"TechEden 2.0",
                 "sub_title":"Hackathon",
                 "venue":"CB-IIC",
-                "date":"10 Dec",
+                "date":"10-12-2022",
                 "data":"Cyberpunk",
                 "attandance":"17 Teams"
 
@@ -91,7 +91,7 @@
                 "title":"Snyk Cybersecurity Challenge",
                 "sub_title":"Competition",
                 "venue":"CB-207",
-                "date":"10 Dec",
+                "date":"10-12-2022",
                 "data":"Cyberpunk",
                 "attandance":"30"
 
@@ -104,7 +104,7 @@
                 "title":"Guest Lecture: Open Source Contributions",
                 "sub_title":"Guest Lecture",
                 "venue":"CB-IIC",
-                "date":"11 Dec",
+                "date":"11-12-2022",
                 "data":"Cyberpunk",
                 "attandance":"50"
 
@@ -117,7 +117,7 @@
                 "title":"React Bootcamp",
                 "sub_title":"Workshop",
                 "venue":"Newton Hall",
-                "date":"19 Dec",
+                "date":"19-12-2022",
                 "data":"Cyberpunk",
                 "attandance":"50"
             }
@@ -131,7 +131,7 @@
                 "title":"Executive Board 2021 Induction",
                 "sub_title":"Induction",
                 "venue":"Discord",
-                "date":"23 May",
+                "date":"23-05-2021",
                 "data":"Cyberpunk",
                 "attandance":"30"
 
@@ -144,7 +144,7 @@
                 "title":"Winter Season of Code 2021 (Level 0)",
                 "sub_title":"Competition",
                 "venue":"GitHub",
-                "date":"27 July",
+                "date":"27-07-2021",
                 "data":"Cyberpunk",
                 "attandance":"70"
 
@@ -157,7 +157,7 @@
                 "title":"OpenSourceTalks Ep. 1",
                 "sub_title":"Workshop",
                 "venue":"Online",
-                "date":"16 Aug",
+                "date":"16-08-2021",
                 "data":"Cyberpunk",
                 "attandance":"65"
 
@@ -170,7 +170,7 @@
                 "title":"TechCast Ep. 2",
                 "sub_title":"Speaker Session",
                 "venue":"Online",
-                "date":"29 Aug",
+                "date":"29-08-2021",
                 "data":"Cyberpunk",
                 "attandance":"79"
 
@@ -183,7 +183,7 @@
                 "title":"OSC Quiz Anniversary",
                 "sub_title":"Online Quiz",
                 "venue":"Instagram",
-                "date":"30 Aug",
+                "date":"30-08-2021",
                 "data":"Cyberpunk",
                 "attandance":"25"
 
@@ -196,7 +196,7 @@
                 "title":"Winter Season of Code 2021",
                 "sub_title":"Competition",
                 "venue":"GitHub+Discord",
-                "date":"1 Sept",
+                "date":"1-09-2021",
                 "data":"Cyberpunk",
                 "attandance":"89"
 
@@ -209,7 +209,7 @@
                 "title":"TechCast Ep. 3",
                 "sub_title":"Speaker Session",
                 "venue":"Online",
-                "date":"3 Oct",
+                "date":"3-10-2021",
                 "data":"Cyberpunk",
                 "attandance":"75"
 
@@ -222,7 +222,7 @@
                 "title":"Web Dev from Scratch",
                 "sub_title":"Workshop",
                 "venue":"Online",
-                "date":"16 Nov",
+                "date":"16-11-2021",
                 "data":"Cyberpunk",
                 "attandance":"125"
 
@@ -235,7 +235,7 @@
                 "title":"OpenSourceTalks Ep. 2",
                 "sub_title":"Workshop",
                 "venue":"Online",
-                "date":"26 Dec",
+                "date":"26-12-2021",
                 "data":"Cyberpunk",
                 "attandance":"80"
 
@@ -248,7 +248,7 @@
                 "title":"IdeaOryx",
                 "sub_title":"Hackathon",
                 "venue":"Devfolio+Online",
-                "date":"15 Jan",
+                "date":"15-1-2021",
                 "data":"Cyberpunk",
                 "attandance":"7 Teams"
 
@@ -261,7 +261,7 @@
                 "title":"Web Hunt 4.0",
                 "sub_title":"Hackathon",
                 "venue":"-",
-                "date":"15 May",
+                "date":"15-05-2021",
                 "data":"Cyberpunk",
                 "attandance":"14 Teams"
 
@@ -274,7 +274,7 @@
                 "title":"Software Freedom Day 2022",
                 "sub_title":"OSC AnnualFest",
                 "venue":"-",
-                "date":"15 May",
+                "date":"15-05-2021",
                 "data":"Cyberpunk",
                 "attandance":"354"
 
@@ -302,7 +302,7 @@
                 "title":"Executive Board 2020 Induction",
                 "sub_title":"Induction",
                 "venue":"Discord",
-                "date":"20 Sept",
+                "date":"20-09-2020",
                 "data":"Cyberpunk",
                 "attandance":"30"
 
@@ -315,7 +315,7 @@
                 "title":"Hacktoberfest 2020 Online Meetup (MLH)",
                 "sub_title":"Workshop",
                 "venue":"Online",
-                "date":"4 Oct",
+                "date":"4-10-2020",
                 "data":"Cyberpunk",
                 "attandance":"80"
 
@@ -328,7 +328,7 @@
                 "title":"Git Series: Part 1",
                 "sub_title":"Workshop",
                 "venue":"Online",
-                "date":"8 Oct",
+                "date":"8-10-2020",
                 "data":"Cyberpunk",
                 "attandance":"135"
 
@@ -341,7 +341,7 @@
                 "title":"Winter Season of Code 2020 (Level 0)",
                 "sub_title":"Competition",
                 "venue":"GitHub",
-                "date":"10 Oct",
+                "date":"10-10-2020",
                 "data":"Cyberpunk",
                 "attandance":"90"
 
@@ -354,7 +354,7 @@
                 "title":"IdeaOryx Phase 1",
                 "sub_title":"Competition",
                 "venue":"Online",
-                "date":"17 Oct",
+                "date":"17-10-2020",
                 "data":"Cyberpunk",
                 "attandance":"57"
 
@@ -367,7 +367,7 @@
                 "title":"IdeaOryx Finals",
                 "sub_title":"Competition",
                 "venue":"Online",
-                "date":"24 Oct",
+                "date":"24-10-2020",
                 "data":"Cyberpunk",
                 "attandance":"24"
 
@@ -380,7 +380,7 @@
                 "title":"Computational Solar Physics",
                 "sub_title":"Guest Lecture",
                 "venue":"Online",
-                "date":"21 Nov",
+                "date":"21-11-2020",
                 "data":"Cyberpunk",
                 "attandance":"65"
 
@@ -393,7 +393,7 @@
                 "title":"TechCast Ep. 1",
                 "sub_title":"TechTalk",
                 "venue":"Online",
-                "date":"27 Nov",
+                "date":"27-11-2020",
                 "data":"Cyberpunk",
                 "attandance":"140"
 
@@ -419,7 +419,7 @@
                 "title":"TechCast Ep.2",
                 "sub_title":"TechTalk",
                 "venue":"Online",
-                "date":"14 Feb",
+                "date":"14-02-2020",
                 "data":"Cyberpunk",
                 "attandance":"150"
 
@@ -432,7 +432,7 @@
                 "title":"Web Hunt 3.0",
                 "sub_title":"Hackathon",
                 "venue":"RunTheWorld+Discord",
-                "date":"7 March",
+                "date":"7-03-2020",
                 "data":"Cyberpunk",
                 "attandance":"8 Teams"
 
@@ -445,7 +445,7 @@
                 "title":"Software Freedom Day 2021",
                 "sub_title":"OSC AnnualFest",
                 "venue":"RunTheWorld+Discord",
-                "date":"7 March",
+                "date":"7-03-2020",
                 "data":"Cyberpunk",
                 "attandance":"324"
 
@@ -473,7 +473,7 @@
                 "title":"Induction 2019",
                 "sub_title":"Induction",
                 "venue":"Einstein Hall",
-                "date":"20 July",
+                "date":"20-07-2019",
                 "data":"Cyberpunk",
                 "attandance":"70"
 
@@ -486,7 +486,7 @@
                 "title":"Open Source 101",
                 "sub_title":"Workshop",
                 "venue":"Einstein Hall",
-                "date":"20 July",
+                "date":"20-07-2019",
                 "data":"Cyberpunk",
                 "attandance":"50"
 
@@ -498,7 +498,7 @@
                 "title":"Git Ready!",
                 "sub_title":"Workshop",
                 "venue":"CSE Lab",
-                "date":"31 Aug",
+                "date":"31-08-2019",
                 "data":"Cyberpunk",
                 "attandance":"65"
 
@@ -511,7 +511,7 @@
                 "title":"HORCRUX ENIGMA",
                 "sub_title":"Competition",
                 "venue":"CSE Lab",
-                "date":"10 Sept",
+                "date":"10-09-2019",
                 "data":"Cyberpunk",
                 "attandance":"39"
 
@@ -524,7 +524,7 @@
                 "title":"MLH Learn",
                 "sub_title":"Workshop",
                 "venue":"ECE Lab",
-                "date":"10 Oct",
+                "date":"10-10-2019",
                 "data":"Cyberpunk",
                 "attandance":"85"
 
@@ -537,7 +537,7 @@
                 "title":"Django (Session 1)",
                 "sub_title":"Workshop",
                 "venue":"CSE Lab",
-                "date":"23 Oct",
+                "date":"23-10-2019",
                 "data":"Cyberpunk",
                 "attandance":"90"
 
@@ -550,7 +550,7 @@
                 "title":"Django (Session 2)",
                 "sub_title":"Workshop",
                 "venue":"CSE Lab",
-                "date":"30 Oct",
+                "date":"30-10-2019",
                 "data":"Cyberpunk",
                 "attandance":"110"
 
@@ -563,7 +563,7 @@
                 "title":"MLH Build",
                 "sub_title":"Hackathon",
                 "venue":"Newton Hall",
-                "date":"8 Dec",
+                "date":"8-12-2019",
                 "data":"Cyberpunk",
                 "attandance":"8 Teams"
 
@@ -576,7 +576,7 @@
                 "title":"Hands On Flutter",
                 "sub_title":"Workshop",
                 "venue":"CSE Lab",
-                "date":"14 Dec",
+                "date":"14-12-2019",
                 "data":"Cyberpunk",
                 "attandance":"78"
 
@@ -589,7 +589,7 @@
                 "title":"Hands On Flutter Session 2",
                 "sub_title":"Workshop",
                 "venue":"CSE Lab",
-                "date":"14 Feb",
+                "date":"14-02-2019",
                 "data":"Cyberpunk",
                 "attandance":"92"
 
@@ -602,7 +602,7 @@
                 "title":"Web Hunt 2.0",
                 "sub_title":"Hackathon",
                 "venue":"AIR Center",
-                "date":"8 March",
+                "date":"8-03-2019",
                 "data":"Cyberpunk",
                 "attandance":"11 Teams"
 
@@ -615,7 +615,7 @@
                 "title":"Software Freedom Day 2020",
                 "sub_title":"OSC AnnualFest",
                 "venue":"Auditorium",
-                "date":"8 March",
+                "date":"8-03-2019",
                 "data":"Cyberpunk",
                 "attandance":"300"
 
@@ -630,7 +630,7 @@
                 "title":"Club Inauguration and Icebreaker",
                 "sub_title":"Meetup",
                 "venue":"AB1-319",
-                "date":"8 Aug",
+                "date":"8-08-2018",
                 "data":"Cyberpunk",
                 "attandance":"30"
 
@@ -643,7 +643,7 @@
                 "title":"SFD 2018",
                 "sub_title":"Guest Lecture",
                 "venue":"Newton Hall",
-                "date":"29 Sept",
+                "date":"29-09-2018",
                 "data":"Cyberpunk",
                 "attandance":"50"
 
@@ -656,7 +656,7 @@
                 "title":"The GNU Linux Ecosystem",
                 "sub_title":"Workshop",
                 "venue":"AB1-319",
-                "date":"20 Oct",
+                "date":"20-10-2018",
                 "data":"Cyberpunk",
                 "attandance":"30"
 
@@ -669,7 +669,7 @@
                 "title":"Present Your Ideas Challenge 2018",
                 "sub_title":"Competition",
                 "venue":"Online",
-                "date":"24 Oct",
+                "date":"24-10-2018",
                 "data":"Cyberpunk",
                 "attandance":"Cyberpunk"
 
@@ -682,7 +682,7 @@
                 "title":"Ready to GitGood?",
                 "sub_title":"Workshop",
                 "venue":"AB1-319",
-                "date":"27 Oct",
+                "date":"27-10-2018",
                 "data":"Cyberpunk",
                 "attandance":"Cyberpunk"
 
@@ -695,7 +695,7 @@
                 "title":"Think Smart Challenge 2019",
                 "sub_title":"Hackathon",
                 "venue":"EC Lab 1 & 2",
-                "date":"10 March, 2019",
+                "date":"10-03-2019",
                 "data":"Cyberpunk",
                 "attandance":"6 Teams"
 
